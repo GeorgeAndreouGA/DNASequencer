@@ -13,3 +13,11 @@ java DNASequencer <strand1> <strand2> ...
 
 Example
 Given the input arguments aaaggts tcgtac fdhgvf rhef as hgjf, the program processes the strands to find and manipulate the first valid DNA strands and produces the following output:DNA molecule: tcgtac
+
+Usage
+
+Compile the DNASequencer.java file:
+javac DNASequencer.java
+
+Run the compiled Java program:
+java DNASequencer your input
